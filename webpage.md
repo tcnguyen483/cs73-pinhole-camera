@@ -12,4 +12,4 @@ Fall 2020
 
 ### Small Pinhole, Shot Through a Window
 
-![Photo of parking lot as seen through a window](../assets/window_s.jpg)
+![Photo of parking lot as seen through a window](../assets/window_s.jpg?raw=true)
