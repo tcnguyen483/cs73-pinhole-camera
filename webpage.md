@@ -12,4 +12,4 @@ Fall 2020
 
 ![Photo of parking lot as seen through a window][window_s]
 
-[window_s]: ../assets/window_s.jpg "Small Pinhole, Shot Through a Window"
+[window_s]: https://github.com/tcnguyen483/cs73-pinhole-camera/tree/master/assets/window_s.jpg "Small Pinhole, Shot Through a Window"
